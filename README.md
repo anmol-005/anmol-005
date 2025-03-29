@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 👨🏽‍💻 A student passionate about web development.
-- 🔭 I’m currently working on Java and Python.
+- 👨🏽‍💻 A student passionate about Machine Learning and Artificial Intelligence.
+- 🔭 I’m currently working on Machine Learning, OpenCV and Python.
 - 🌱 I’m currently learning DSA 
 - 🤔 I’m looking for opportunities.
 - 💬 Ask me 
-- 📫 How to reach me:
+- 📫 How to reach me:anmolkansal1805@gmail.com
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol-005)](https://github.com/anmol-005/github-readme-stats)
 
 
