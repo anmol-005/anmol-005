@@ -41,15 +41,13 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=anmol-005&theme=radical&no-frame=false&no-bg=false)
+![trophies](https://github-profile-trophy.vercel.app/?username=anmol-005&theme=radical&no-frame=false&no-bg=true)
 
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol-005&show_icons=true&theme=dark" alt="Anmol's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-005&theme=dark" alt="Anmol's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-005&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![Anmol's Stats](https://github-readme-stats.vercel.app/api?username=anmol-005&show_icons=true&theme=dark&count_private=true)
+
+![Anmol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anmol-005&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-005&layout=compact&theme=dark)
