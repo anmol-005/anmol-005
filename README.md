@@ -1,4 +1,4 @@
-# ## Hi there 👋 I'm Anmol
+# Hi there 👋 I'm Anmol
 
 - 👨🏽‍💻 A student passionate about **Machine Learning** and **Artificial Intelligence**.
 - 🔭 I’m currently working on **Machine Learning, OpenCV, and Python**.
