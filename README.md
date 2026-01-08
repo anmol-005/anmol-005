@@ -41,15 +41,15 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anmol-005&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache=none)
+![trophies](https://github-profile-trophy.vercel.app/?username=anmol-005&theme=radical&no-frame=false&no-bg=false)
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol-005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Anmol's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol-005&show_icons=true&theme=dark" alt="Anmol's Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-005&theme=dark&hide_border=false" alt="Anmol's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-005&theme=dark" alt="Anmol's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-005&layout=compact&theme=dark" alt="Top Languages" />
 </p>
