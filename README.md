@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Machine Learning, OpenCV, and Python**.
 - 🌱 I’m currently exploring **Deep Learning and NLP**.
 - 🤔 I’m looking for opportunities to collaborate on innovative AI projects.
-- 💬 Ask me about **Python, ML, or Data Structures**.
+- 💬 Ask me about **Python, Machine Learning, Linear Algebra, DBMS, Java**.
 - 📫 How to reach me: **anmolkansal1805@gmail.com**
 
 ---
